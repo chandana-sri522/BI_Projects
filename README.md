@@ -1,4 +1,4 @@
-# Power-BI and Tableau Projects
+# Power BI and Tableau Projects
 
 # Overview :
 This repository showcases a collection of Business Intelligence (BI) projects developed using Power BI and Tableau. Each project is built to solve real-world analytical problems using modern BI techniques, focusing on interactive dashboards, KPI visualization, and actionable insights.
