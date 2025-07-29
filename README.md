@@ -24,6 +24,8 @@ Each project typically includes:
 🔍 Bookmarking, Tooltips, and Page Navigation
 
 Live Tableau Reports : https://public.tableau.com/app/profile/chandana.sri.balmuri/vizzes
+Live Power BI Blinkit Reports : https://app.powerbi.com/view?r=eyJrIjoiNjQ3NjE3YjAtNTRjNC00NzQwLTlmOWUtNTgyMGU0NTYwMGQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Power BI Pizza Sales Report : https://app.powerbi.com/view?r=eyJrIjoiMTk0NDljM2QtY2E2MC00YzZkLThhZDMtZmQwYTc5MGQ0M2M2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 
